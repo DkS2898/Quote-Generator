@@ -44,3 +44,7 @@ Users can also **tweet the quotes directly** with one click.
 ├── script.js # JavaScript logic<br>
 └── README.md # Project documentation<br>
 
+---
+
+## Live Demo Link
+https://devsenquotegenerator.netlify.app/
