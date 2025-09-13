@@ -30,6 +30,13 @@ Users can also **tweet the quotes directly** with one click.
 
 ---
 
+## 📷 Video
+<i>https://youtu.be/mxh4RpCu41U</i>
+
+
+
+---
+
 ## ⚡ How It Works
 1. On load, the app fetches a random quote from the API.  
 2. Click **New Quote** to fetch another one.  
